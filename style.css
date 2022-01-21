@@ -32,7 +32,7 @@ p {
 }
 
 header { 
-    background: url("Images/header-background.jpg") no-repeat center center;
+    background: url("images/header-background.jpg") no-repeat center center;
     background-size:cover;
     padding: 80px 0px;
 }
